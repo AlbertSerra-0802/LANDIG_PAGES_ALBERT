@@ -1,4 +1,10 @@
-.container img{
-    display: inline-block;
-    
+.bg-boto{
+    background-color: #B22727;
 }
+
+.body{
+   background-color: #f2f2f2;
+   margin: 0;
+   padding: 0;  
+}
+
